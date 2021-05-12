@@ -80,13 +80,11 @@ Participants of this course will learn how to
 
 ### Methods
 
-<!-- FIXME -->
-
 | Type        | Effort \[h\] |
 | :---------- | :----------- |
-| Independent | 40           |
-| Practical   | 40           |
-| Lecture     | 40           |
+| Independent | 142          |
+| Practical   | 0            |
+| Lecture     | 8            |
 
 ## Assessment
 
@@ -119,7 +117,4 @@ Basic knowledge of
 
 ### Equipment
 
-<!-- FIXME -->
-
-- Pencil(s)
-- Calculator
+- Laptop with Internet Browser
